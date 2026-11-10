@@ -56,19 +56,22 @@
       "experience": "full",
       "logo": {
         "wordmark": {
-          "size": [120, 30],
+          "size": [220, 30],
           "paths": [
-            { "d": "M15 27 C-2 16 0 5 7 4 C11 3.5 14 6 15 8 C16 6 19 3.5 23 4 C30 5 32 16 15 27 Z", "fill": "accent" },
-            { "d": "M40 7 H46 V23 H40 Z", "fill": "textPrimary" },
-            { "d": "M50 7 H56 V23 H50 Z", "fill": "textPrimary" },
-            { "d": "M60 7 H66 V23 H60 Z", "fill": "textPrimary" },
-            { "d": "M70 7 H76 V23 H70 Z", "fill": "textPrimary" }
+            { "d": "M0 0 H20 V4 H0 Z M0 0 H4 V14 H0 Z M0 10 H20 V14 H0 Z M16 10 H20 V28 H16 Z M0 24 H20 V28 H0 Z", "fill": "accent" },
+            { "d": "M26 0 H46 V4 H26 Z M26 0 H30 V28 H26 Z M26 12 H46 V16 H26 Z M26 24 H46 V28 H26 Z", "fill": "accent" },
+            { "d": "M52 0 L56 0 L72 28 L68 28 Z M68 0 L72 0 L56 28 L52 28 Z", "fill": "accent" },
+            { "d": "M78 0 L82 0 L89 13 L85 13 Z M94 0 L98 0 L91 13 L87 13 Z M86 12 H90 V28 H86 Z", "fill": "accent" },
+            { "d": "M116 0 H120 V28 H116 Z M120 13 L124 13 L136 0 L132 0 Z M120 15 L124 15 L136 28 L132 28 Z", "fill": "textPrimary" },
+            { "d": "M150 0 H154 V28 H150 Z", "fill": "textPrimary" },
+            { "d": "M168 0 H172 V28 H168 Z M184 0 H188 V28 H184 Z M168 0 L172 0 L188 28 L184 28 Z", "fill": "textPrimary" },
+            { "d": "M194 0 H214 V28 H194 Z M198 4 V24 H210 V4 Z", "fill": "textPrimary" }
           ]
         },
         "mark": {
           "size": [30, 30],
           "paths": [
-            { "d": "M15 27 C-2 16 0 5 7 4 C11 3.5 14 6 15 8 C16 6 19 3.5 23 4 C30 5 32 16 15 27 Z", "fill": "accent" }
+            { "d": "M2 2 H28 V8 H2 Z M2 2 H8 V18 H2 Z M2 14 H28 V20 H2 Z M22 14 H28 V28 H22 Z M2 22 H28 V28 H2 Z", "fill": "accent" }
           ]
         }
       }
