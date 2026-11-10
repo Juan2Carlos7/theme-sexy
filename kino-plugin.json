@@ -1,7 +1,7 @@
 {
   "id": "theme-sexy",
   "name": "Sexy",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "apiVersion": 18,
   "entry": "plugin.js",
   "description": "Un tema oscuro y provocador con acentos rosa fuego para Kino.",
