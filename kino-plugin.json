@@ -10,6 +10,7 @@
   "categories": ["themes"],
   "appThemes": [
     {
+      "price": { "kinos": 50, "payTo": "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef" }
       "id": "sexy",
       "name": { "es": "Sexy", "en": "Sexy" },
       "colors": {
